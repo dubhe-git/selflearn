@@ -1,8 +1,15 @@
 # selflearn
 It's something that just for myself
-## 今日收获 2020-04-07
-今天能够熟练的使用github
-以及能够比较顺畅的进行csv 和excel的读写 也是很nice的收获
+## 2022-05-10
 
-笔记/pythonnote.md
-README.md
+在 python的运行环境中，vscode 已经同步了个人设置。账号关联了 GitHub  输入 'pyheader' 就可以输出个人的 author 信息
+
+
+- name属性
+- finder 内容
+  
+/table
+
+```
+import from bs4
+```
